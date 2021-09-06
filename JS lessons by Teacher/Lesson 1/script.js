@@ -1,17 +1,14 @@
-let namew = 'Akobir';
+// let pro = prompt('What is your name ?');
 
+// console.log(pro);
 
+// let age = +prompt('Yoshindiz nechida ?')
 
-window()
+// alert(2021 - age);
 
+let conf = confirm('You liked our ideas ?')
 
-
-
-
-console.log(namew);
-
-
-
+alert(conf);
 
 
 
