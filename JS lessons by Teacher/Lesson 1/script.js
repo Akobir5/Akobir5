@@ -2,7 +2,7 @@ let namew = 'Akobir';
 
 
 
-
+window()
 
 
 
