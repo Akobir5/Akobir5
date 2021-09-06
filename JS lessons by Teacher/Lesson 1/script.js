@@ -6,19 +6,29 @@
 
 // alert(2021 - age);
 
-let conf = confirm('You liked our ideas ?')
+// let conf = confirm('You liked our ideas ?')
 
-alert(conf);
-
-
+// alert(conf);
 
 
-
+let age = +prompt('Yoshingiz nechida ?');
 
 
 
+if (age >= 18) {
+    alert('Sizga mumkin Marhamat')
+}
+
+if (age < 18) {
+    alert('Sizga erta!!!')
+}
+
+if (age <= 60) {
+    alert('Endi kechov !?')
+}
 
 
+// 6ta savol ( FUTBOL . GOSHT )
 
 
 
